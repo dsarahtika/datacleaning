@@ -3,7 +3,7 @@ Hello. I made this repository to demonstrate my data cleaning skills in R and Py
 
 I am aware that this repository might not be the “fanciest” to be showcased. The point of this repository is to demonstrate the steps necessary in data cleaning—which is an integral stage in any data science project—in hopes that fellow aspiring data scientists/data science students would benefit from this. 
 
-Here you can find two data cleaning processes using two different datasets. For your information, these were assignments from Dibimbing.id’s bootcamp program, which I am currently participating in. Both received a perfect score from the mentors.
+Here you can find two data cleaning processes using two different datasets. For your information, these were assignments from Dibimbing.id’s bootcamp program, which I am currently participating in. 
 
 Both processes share similar steps. However, differences can be found in some methods, such as those for standardization and outlier handling.
 
